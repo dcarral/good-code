@@ -16,3 +16,26 @@ This is a list of resources provided as companion material for the workshop [“
 * [Applying the ABC Metric to C, C++, and Java](http://www.softwarerenovation.com/ABCMetric.pdf), by Jerry Fitzpatrick
 * [Flog (Ruby gem)](https://github.com/seattlerb/flog)
 * [99 bottles of beer (kata)](https://rosettacode.org/wiki/99_Bottles_of_Beer)
+
+## Pictures
+
+I always try as many own images as possible. Below you can find where they were taken, as well as credits from the ones I haven't authored myself:
+
+1. Ksamil
+2. Belgrade
+3. Kotor
+4. Book cover: Zen and the Art of Motorcycle Maintenance
+Credits: https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance
+5. XP Practices
+Credits: http://epf.eclipse.org/wikis/xp/xp/guidances/concepts/xp_practices_36E149F4.html
+6. Pair programming Credits: https://ayende.com/blog/164257/pair-programming-at-hibernating-rhinos
+7. 99 bottles t-shirt
+Credits: https://www.pinterest.co.uk/pin/410672059740966775/
+8. Lanzarote
+9. 99 bottles is bullshit
+Credits: https://www.pinterest.com/pin/465981892665238345/
+10. Homer confused
+Credits: http://m.mini-fondos.com/en/wallpaper/4844
+11. Homer doing maths
+Credits: https://www.eduvationnet.co.za/maths-lit-or-normal-maths-make-an-informative-decision/
+11. Book cover: 99 bottles of OOP
