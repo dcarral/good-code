@@ -19,7 +19,9 @@ This is a list of resources provided as companion material for the workshop [“
 
 ## Pictures
 
-I always try as many own images as possible. Below you can find where they were taken, as well as credits from the ones I haven't authored myself:
+I always try to include as many of my own images as possible.
+
+Below you can find where they were taken, as well as credits from the ones I haven't authored myself:
 
 1. Ksamil
 2. Belgrade
