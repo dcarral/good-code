@@ -6,6 +6,8 @@ This is a list of resources provided as companion material for the workshop [“
 - [Software Craftsmanship Serbia](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/) (24/10/2017)
 - [Software Craftsmanship Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/) (30/10/2017)
 
+Notice that code snippets containing the initial test suite can be found at the forked repo of [99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot).
+
 ## Books
 
 * [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance), by Robert M. Pirsig.
