@@ -1,6 +1,6 @@
 # What is good code? Evaluating code quality
 
-This is a list of resources provided as companion material for the workshop [“What is good code? Evaluating code quality”](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/), delivered at:
+This is a list of resources provided as **companion material** for the workshop **“What is good code? Evaluating code quality”**, delivered at:
 
 - [SoCraTes Day Berlin 2017](https://www.meetup.com/Software-Craftsmanship-Berlin/events/241973901/) (10-07-2017)
 - [Software Craftsmanship Serbia](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/) (10-24-2017)
