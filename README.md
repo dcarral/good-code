@@ -8,7 +8,7 @@ This is a list of resources provided as **companion material** for the workshop 
 - [AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/) (11-07-2017)
 - [SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/) (12-18-2017)
 
-Notice that the initial test suite can be found at [99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot).
+Notice that the initial test suite can be found at [dcarral/99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot).
 
 ## Books
 
