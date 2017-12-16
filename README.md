@@ -1,6 +1,6 @@
 # What is good code? Evaluating code quality
 
-This is a list of resources provided as **companion material** for the workshop **“What is good code? Evaluating code quality”**, delivered at:
+This is a list of resources provided as **companion material** for the workshop **“What is good code? Evaluating code quality”**, facilitated at:
 
 - [SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/) in Germany (December 18th, 2017)
 - [AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/) in Oviedo, Spain (November 7th, 2017)
