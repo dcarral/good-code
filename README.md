@@ -6,6 +6,7 @@ This is a list of resources provided as companion material for the workshop [“
 - [Software Craftsmanship Serbia](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/) (10-24-2017)
 - [Software Craftsmanship Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/) (10-30-2017)
 - [AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/) (11-07-2017)
+- [SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/) (12-18-2017)
 
 Notice that the initial test suite can be found at [99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot).
 
