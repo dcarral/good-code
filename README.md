@@ -7,7 +7,7 @@ This is a list of resources provided as companion material for the workshop [“
 - [Software Craftsmanship Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/) (10-30-2017)
 - [AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/) (11-07-2017)
 
-Notice that code snippets containing the initial test suite can be found at the forked repo of [99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot).
+Notice that the initial test suite can be found at [99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot).
 
 ## Books
 
