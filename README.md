@@ -1,13 +1,14 @@
 # What is good code? Evaluating code quality
 
-This is a list of resources provided as companion material for the workshop [“What is good code? Evaluating code quality”](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/), delivered at:
+This is a list of resources provided as **companion material** for the workshop **“What is good code? Evaluating code quality”**, facilitated at:
 
-- [SoCraTes Day Berlin 2017](https://www.meetup.com/Software-Craftsmanship-Berlin/events/241973901/) (10-07-2017)
-- [Software Craftsmanship Serbia](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/) (10-24-2017)
-- [Software Craftsmanship Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/) (10-30-2017)
-- [AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/) (11-07-2017)
+- [SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/) in Germany (December 18th, 2017)
+- [AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/) in Oviedo, Spain (November 7th, 2017)
+- [Software Craftsmanship Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/) in Spain (October 30th, 2017)
+- [Software Craftsmanship Serbia](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/) in Belgrade (October 24th, 2017)
+- [SoCraTes Day Berlin 2017](https://www.meetup.com/Software-Craftsmanship-Berlin/events/241973901/) in Germany (October 7th, 2017)
 
-Notice that code snippets containing the initial test suite can be found at the forked repo of [99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot).
+Notice that the initial test suite can be found at [dcarral/99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot).
 
 ## Books
 
