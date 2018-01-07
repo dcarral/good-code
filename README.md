@@ -1,16 +1,19 @@
-# What is good code? Evaluating code quality
+# *“What is good code? Evaluating code quality”*
 
-This is a list of resources provided as **companion material** for the workshop **“What is good code? Evaluating code quality”**, facilitated at:
+Hi, I'm the living repository provided as companion material to the workshop / coding dojo *“What is good code? Evaluating code quality”*, so far facilitated at:
 
-- [SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/) in Germany (December 18th, 2017)
-- [AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/) in Oviedo, Spain (November 7th, 2017)
-- [Software Craftsmanship Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/) in Spain (October 30th, 2017)
-- [Software Craftsmanship Serbia](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/) in Belgrade (October 24th, 2017)
-- [SoCraTes Day Berlin 2017](https://www.meetup.com/Software-Craftsmanship-Berlin/events/241973901/) in Germany (October 7th, 2017)
+- *[SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/)* @ *Zalando Tech* (December 18th, 2017)
+- Training @ *[Talento Corporativo](http://http://www.talentocorporativo.com/)* in Gijón, Spain (December 5th, 2017)
+- *[AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/)* @ *El Manglar (Cultural Center)* in Oviedo, Spain (November 7th, 2017)
+- *[Software Craftsmanship Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/)* @ *Parc bit* in Spain (October 30th, 2017)
+- *[Software Craftsmanship Serbia](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/)* @ *Startit Centar* in Belgrade (October 24th, 2017)
+- *[SoCraTes Day Berlin 2017](https://www.meetup.com/Software-Craftsmanship-Berlin/events/241973901/)* @ *Leanovate* (October 7th, 2017)
 
-Notice that the initial test suite can be found at [dcarral/99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot).
+Looking for the initial test suites? Check out [dcarral/99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot) ;)
 
-## Books
+## Resources 
+
+### Books
 
 * [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance), by Robert M. Pirsig.
 * [eXtreme Programming explained: embrace change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658), by Kent Beck.
@@ -20,8 +23,7 @@ Notice that the initial test suite can be found at [dcarral/99bottles-polyglot](
 * [99 bottles of OOP](https://www.sandimetz.com/99bottles/), by Sandi Metz & Katrina Owen.
 * [Beautiful Code: Leading Programmers Explain How They Think](http://shop.oreilly.com/product/9780596510046.do), by Andy Oram & Greg Wilson.
 
-
-## Other
+### Other
 
 * [eXtreme Programming rules](http://www.extremeprogramming.org/rules.html)
 * [A complexity measure](http://www.literateprogramming.com/mccabe.pdf), paper by Thomas J. Mccabe.
