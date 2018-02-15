@@ -5,8 +5,8 @@ Below you can find where the pictures were taken, as well as credits from the im
 Notice that the slidedeck has been constantly evolving since the first edition of the workshop, therefore you might have seen not all of them ;)
 
 1. Ksamil, Albania.
-2. Es Canyeret, Mallorca (Spain).
-3. Llucalcari, Mallorca (Spain).
+2. Negril, Jamaica.
+3. Stockholm, Sweden.
 4. Book cover: Zen and the Art of Motorcycle Maintenance (https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)
 5. Book cover: eXtreme Programming explained: embrace change
 (https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
