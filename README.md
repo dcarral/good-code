@@ -2,6 +2,8 @@
 
 Hi, I'm the living repository provided as companion material to the workshop / coding dojo *“What is good code? Evaluating code quality”*, so far facilitated at:
 
+- *[SWK Leipzig](https://www.meetup.com/Softwerkskammer-Leipzig/events/245523284)* @ *Basislager Coworking* (March 22th, 2018)
+- *[Barcelona on Rails](https://www.meetup.com/Barcelona-on-Rails/events/247049215/)* @ *Xing Barcelona* (February 15th, 2018)
 - *[SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/)* @ *Zalando Tech* (December 18th, 2017)
 - Training @ *[Talento Corporativo](http://http://www.talentocorporativo.com/)* in Gijón, Spain (December 5th, 2017)
 - *[AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/)* @ *El Manglar (Cultural Center)* in Oviedo, Spain (November 7th, 2017)
