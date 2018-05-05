@@ -2,6 +2,7 @@
 
 Hi, I'm the living repository provided as companion material to the workshop / coding dojo *“What is good code? Evaluating code quality”*, so far facilitated at:
 
+- *[Software Craftsmanship Toulouse](https://www.meetup.com/Software-Craftsmanship-Toulouse/events/249901262/)* @ *Etincelle Alsace Lorraine* (April 23th, 2018) 
 - *[SWK Leipzig](https://www.meetup.com/Softwerkskammer-Leipzig/events/245523284)* @ *Basislager Coworking* (March 22th, 2018)
 - *[Barcelona on Rails](https://www.meetup.com/Barcelona-on-Rails/events/247049215/)* @ *Xing Barcelona* (February 15th, 2018)
 - *[SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/)* @ *Zalando Tech* (December 18th, 2017)
@@ -13,7 +14,7 @@ Hi, I'm the living repository provided as companion material to the workshop / c
 
 Looking for the initial test suites? Check out [dcarral/99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot) ;)
 
-## Resources 
+## Resources
 
 ### Books
 
