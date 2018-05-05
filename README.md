@@ -2,14 +2,14 @@
 
 Hi, I'm the living repository provided as companion material to the workshop / coding dojo *“What is good code? Evaluating code quality”*, so far facilitated at:
 
-- *[Software Craftsmanship Toulouse](https://www.meetup.com/Software-Craftsmanship-Toulouse/events/249901262/)* @ *Etincelle Alsace Lorraine* (April 23th, 2018) 
+- *[Software Craftsmanship Toulouse](https://www.meetup.com/Software-Craftsmanship-Toulouse/events/249901262/)* @ *Etincelle Alsace Lorraine* (April 23th, 2018)
 - *[SWK Leipzig](https://www.meetup.com/Softwerkskammer-Leipzig/events/245523284)* @ *Basislager Coworking* (March 22th, 2018)
 - *[Barcelona on Rails](https://www.meetup.com/Barcelona-on-Rails/events/247049215/)* @ *Xing Barcelona* (February 15th, 2018)
 - *[SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/)* @ *Zalando Tech* (December 18th, 2017)
 - Training @ *[Talento Corporativo](http://http://www.talentocorporativo.com/)* in Gijón, Spain (December 5th, 2017)
 - *[AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/)* @ *El Manglar (Cultural Center)* in Oviedo, Spain (November 7th, 2017)
 - *[Software Craftsmanship Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/)* @ *Parc bit* in Spain (October 30th, 2017)
-- *[Software Craftsmanship Serbia](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/)* @ *Startit Centar* in Belgrade (October 24th, 2017)
+- *[Software Crafting Serbia](https://www.meetup.com/Software-Crafting-Serbia/events/244400269/)* @ *Startit Centar* in Belgrade (October 24th, 2017)
 - *[SoCraTes Day Berlin 2017](https://www.meetup.com/Software-Craftsmanship-Berlin/events/241973901/)* @ *Leanovate* (October 7th, 2017)
 
 Looking for the initial test suites? Check out [dcarral/99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot) ;)
