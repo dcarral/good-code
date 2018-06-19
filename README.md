@@ -36,3 +36,5 @@ Looking for the initial test suites? Check out [dcarral/99bottles-polyglot](http
 * [Flog (Ruby gem)](https://github.com/seattlerb/flog)
 * [99 bottles of beer (kata)](https://rosettacode.org/wiki/99_Bottles_of_Beer)
 * [Four rules of simple design](https://martinfowler.com/bliki/BeckDesignRules.html), article by Martin Fowler.
+* [Duplication, you're welcome](https://codurance.com/2018/02/27/duplication-you-are-welcome/), article by Raquel M. Carmena (after attending the dojo/workshop)
+* [Knowing what is there](https://michaelfeathers.silvrback.com/knowing-what-is-there), article by Michael Feathers.
