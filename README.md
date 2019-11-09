@@ -10,7 +10,7 @@ Hi, I'm the living repository provided as companion material to the workshop / c
 - *[SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/)* @ *Zalando Tech* (December 18th, 2017)
 - Training @ *[Talento Corporativo](http://http://www.talentocorporativo.com/)* in Gijón, Spain (December 5th, 2017)
 - *[AsturiasHacking](https://www.meetup.com/AsturiasHacking/events/244424657/)* @ *El Manglar (Cultural Center)* in Oviedo, Spain (November 7th, 2017)
-- *[Software Craftsmanship Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/)* @ *Parc bit* in Spain (October 30th, 2017)
+- *[Mallorca Software Crafters](https://www.meetup.com/Mallorca-Software-Crafters/events/244506252/)* @ *Parc bit* in Spain (October 30th, 2017)
 - *[Software Crafting Serbia](https://www.meetup.com/Software-Crafting-Serbia/events/244400269/)* @ *Startit Centar* in Belgrade (October 24th, 2017)
 - *[SoCraTes Day Berlin 2017](https://www.meetup.com/Software-Craftsmanship-Berlin/events/241973901/)* @ *Leanovate* (October 7th, 2017)
 
