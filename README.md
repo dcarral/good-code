@@ -4,7 +4,7 @@ Hi, I'm the living repository provided as companion material to the workshop / c
 
 - *[Clean Code Days](https://www.cleancode-days.de/workshops/articles/halbtagesworkshop-4-what-is-good-code-evaluating-code-quality-refactoring-to-openness.html)* @ Munich (June 19th, 2018)
 - *[I T.A.K.E. Unconference](https://itakeunconf.com/sessions/what-is-good-code-evaluating-code-quality/)* @ Bucharest (June 8th, 2018)
-- *[Software Craftsmanship Toulouse](https://www.meetup.com/Software-Craftsmanship-Toulouse/events/249901262/)* @ *Etincelle Alsace Lorraine* (April 23rd, 2018)
+- *[Software Crafters Toulouse](https://www.meetup.com/Software-Crafters-Toulouse/events/249901262/)* @ *Etincelle Alsace Lorraine* (April 23rd, 2018)
 - *[SWK Leipzig](https://www.meetup.com/Softwerkskammer-Leipzig/events/245523284)* @ *Basislager Coworking* (March 22nd, 2018)
 - *[Barcelona on Rails](https://www.meetup.com/Barcelona-on-Rails/events/247049215/)* @ *Xing Barcelona* (February 15th, 2018)
 - *[SWK Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/nhnvdmywqbhc/)* @ *Zalando Tech* (December 18th, 2017)
